@@ -6,8 +6,9 @@ header {
     flex-direction: column;
 }
 .nav {
+    display: flex;
     background-color: aquamarine;
-    justify-items: space-between;
+    justify-content: space-around;
      height: auto;
      width: 600px;
 }
