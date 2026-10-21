@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(243, 176, 222, 0.541);
+    flex-direction: column;
+}
+.nav {
+    background-color: aquamarine;
+    justify-items: space-between;
+     height: auto;
+     width: 600px;
+}
